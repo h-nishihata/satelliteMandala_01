@@ -34,10 +34,8 @@ import ddf.minim.*;
           int num = 100;
           Pen[] pens;
           
-          Spot1[] sp1;
-          Spot2[] sp2;  
-          Spot3[] sp3;
-          Spot4[] sp4;            
+          Spot[] sp; 
+          
           int maxpal = 100;
           int numpal = 0;
           color[] goodcolor = new color[maxpal];
