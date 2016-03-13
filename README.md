@@ -1,7 +1,6 @@
-Satellite-Mandala_1
+satellite_mandala_01
 ===================
 
 Add following addons :
-
      Processing Layers
      Google Mapper
