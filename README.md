@@ -1,4 +1,4 @@
-satellite_mandala_01
+satelliteMandala_01
 ===================
 
 Add following addons :
